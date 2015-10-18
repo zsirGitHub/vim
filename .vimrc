@@ -25,6 +25,7 @@ Plugin 'godlygeek/tabular'
 Plugin 'Shougo/neocomplcache.vim'
 Plugin 'itchyny/calendar.vim'
 Plugin 'altercation/vim-colors-solarized'
+Plugin 'vim-utils/vim-man'
 " vim-scripts repos  
 Plugin 'autoload_cscope.vim'
 Plugin 'c.vim'
